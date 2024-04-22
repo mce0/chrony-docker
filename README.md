@@ -1,4 +1,6 @@
 # mce0/chrony
+[![Build](https://github.com/mce0/chrony-docker/actions/workflows/build.yml/badge.svg)](https://github.com/mce0/chrony-docker/actions/workflows/build.yml)
+
 Based on [cturra/docker-ntp](https://github.com/cturra/docker-ntp) with [chrony.conf from GrapheneOS](https://github.com/GrapheneOS/infrastructure/blob/main/chrony.conf).
 
 #### docker compose example:
